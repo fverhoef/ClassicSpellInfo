@@ -1,0 +1,11 @@
+## Interface: 11305
+## Notes: Modifies spell tooltip amounts to account for character stats.
+## Title: Classic |cff00c3ffSpell Info|r
+## Author: Neyama
+## Version: 0.1
+## SavedVariables: ClassicSpellInfo_DB
+
+Libs\Libs.xml
+Core.lua
+Config.lua
+Database.lua
