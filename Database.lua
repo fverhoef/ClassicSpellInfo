@@ -182,6 +182,7 @@ Database.Spells = {
             type = Database.Types.MagicDamage,
             school = Database.Schools.Fire,
             modifier = 1,
+            coefficient = 1,
             dotCoefficient = 0.7,
             ticks = 4,
             tickInterval = 3,
@@ -961,7 +962,7 @@ Database.Spells = {
                 {id = 12524, level = 40, castTime = 2},
                 {id = 12525, level = 50, castTime = 2},
                 {id = 12526, level = 60, castTime = 2},
-                {id = 18809, level = 60, castTime = 2}
+                {id = 25309, level = 60, castTime = 2}
             }
         },
         ["Conflagrate"] = {
